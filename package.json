@@ -35,6 +35,9 @@
     "trailingComma": "es5"
   },
   "name": "@andrew_887/my-ui-react",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Andrew Martynkevich",
   "module": "dist/my-ui.esm.js",
   "size-limit": [
